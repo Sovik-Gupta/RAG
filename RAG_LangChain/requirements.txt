@@ -1,0 +1,8 @@
+langchain_community
+langchain-text-splitters
+pypdf
+python-dotenv
+langchain
+chromadb
+faiss-cpu
+gpt4all
