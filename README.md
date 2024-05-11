@@ -1,7 +1,7 @@
 Creating RAG With Miltiple Apporaches Like 
   1) LangChain
   2) LlamaIndex
-  3) Without Any Pre DEfined Framework
+  3) Without Any Pre Defined Framework
 
 The Document Which We Are Using For This Apporach Can Be Downloaded From Below Mentioned Link
   https://openstax.org/details/books/concepts-biology
