@@ -29,7 +29,8 @@ LangChain
 ```
 The above command will open a text input space on your local terminal where you will have to enter the API key, you can create one refering to theis URL 
 **[huggingface API key ref](https://huggingface.co/docs/api-inference/en/quicktour)** **[Hugging Face](https://huggingface.co/)**
-Once the above step is done then all the pre-requsites are done to run the model.
+
+Once the above step is done then all the prerequisites are done to run the model.
 
 8) Run the model by clicking on the button "Run Model"
 ## "Let the Magic Happen"
