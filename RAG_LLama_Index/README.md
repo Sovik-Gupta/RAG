@@ -4,13 +4,21 @@
 
 ## Output Details
 
-Platform : Google Colab
-GPU : V100
-RAM : Extended RAM (50GB)
-Average Computing Consumption : 5.09 Per hours
-Time taken to respond : 13 Minutes
-Prompt : "What is Hypothesis Testing?"
-Output : Hypothesis testing is a statistical technique used to test a hypothesis about a population based on a sample of data. The basic idea is to use the sample data to make inferences about the population. There are several steps involved in hypothesis testing: 
+```Platform : Google Colab```
+
+```GPU : V100```
+
+```RAM : Extended RAM (50GB)```
+
+```Average Computing Consumption : 5.09 Per hours```
+
+```Time taken to respond : 13 Minutes```
+
+```Prompt : "What is Hypothesis Testing?"```
+
+## Output 
+
+Hypothesis testing is a statistical technique used to test a hypothesis about a population based on a sample of data. The basic idea is to use the sample data to make inferences about the population. There are several steps involved in hypothesis testing: 
 1. Formulate a null hypothesis: This is a statement about the population that you want to test.
 2. Formulate an alternative hypothesis: This is a statement about the population that you want to reject the null hypothesis.
 3. Choose a test statistic: This is a statistical measure that you will use to determine whether the sample data supports the null or alternative hypothesis.
