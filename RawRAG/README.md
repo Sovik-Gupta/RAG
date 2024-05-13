@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 ## Key terms
 
 | Term | Description |
