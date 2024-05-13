@@ -11,7 +11,7 @@ Each step can be roughly broken down to:
 * **Generation** - Generating an output given an input. For example, in the case of an LLM, generating a passage of text given an input prompt.
 
 
-Creating RAG With Miltiple Apporaches Like 
+# Creating RAG With Miltiple Apporaches Like 
   1) LangChain
   2) LlamaIndex
   3) Without Any Pre Defined Framework
