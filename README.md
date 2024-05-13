@@ -1,4 +1,4 @@
-## What is RAG?
+# What is RAG?
 
 RAG stands for Retrieval Augmented Generation.
 
