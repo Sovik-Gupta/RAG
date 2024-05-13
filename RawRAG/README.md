@@ -1,4 +1,6 @@
-![Uploading image.png…]()
+## Local RAG pipeline we're going to build:
+
+![simple-local-rag-workflow-flowchart](https://github.com/Sovik-Gupta/RAG/assets/27665277/0d1ee3ea-1200-44b3-a964-514d64ace5c9)
 
 
 ## Key terms
