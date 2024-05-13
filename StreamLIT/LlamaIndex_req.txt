@@ -1,0 +1,10 @@
+pypdf
+transformers
+einops
+accelerate
+langchain 
+bitsandbytes
+sentence_transformers
+llama_index
+llama_index[langchain]
+llama-index-llms-huggingface
